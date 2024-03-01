@@ -22,7 +22,7 @@ To install the node server packages
 npm i
 ```
 
-To initialize the application run npm run start:dev in the main folder.
+Initialize the application in the main folder root.
 
 ```
 npm run start:dev
