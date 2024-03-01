@@ -25,7 +25,7 @@ npm i
 To initialize the application run npm run start:dev in the main folder.
 
 ```
-npm run 
+npm run start:dev
 ```
 
 # USAGE INFORMATION
